@@ -12,5 +12,4 @@ aig = { path = "../aig-rs", version = "0.3.0" }
 tempfile = "3.10.1"
 
 [build-dependencies]
-cmake = "0.1.50"
-giputils = { path = "../giputils", version = "0.3.0" }
+cc = "1.2.20"
